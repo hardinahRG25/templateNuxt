@@ -27,6 +27,7 @@ export default defineNuxtConfig({
 
     css: [
         "@/assets/index.css",
+        "@/assets/fonts/icon/font/flaticon.css"
     ],
 
     modules: ["@nuxt/image-edge"],
